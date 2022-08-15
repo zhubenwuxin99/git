@@ -7,8 +7,6 @@ public class test {
         System.out.println("hello3,git");
         System.out.println("master test");
         System.out.println("hot-fix test");
-        123456789
-        123456789
 
     }
 }
